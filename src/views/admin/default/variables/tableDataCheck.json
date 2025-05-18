@@ -1,0 +1,32 @@
+[
+  {
+    "name": ["Anny", false],
+    "quantity": "Standard Room",
+    "date": "Apr 26, 2022",
+    "progress": "Confirmed"
+  },
+  {
+    "name": ["Sherry", true],
+    "quantity": "Delux Room",
+    "date": "Jul 20, 2022",
+    "progress": "Reject"
+  },
+  {
+    "name": ["Henry", true],
+    "quantity": "Single Room",
+    "date": "Sep 30, 2022",
+    "progress": "Glitch"
+  },
+  {
+    "name": ["Luci", true],
+    "quantity": "Double Room",
+    "date": "Oct 24, 2022",
+    "progress": "Confirmed"
+  },
+  {
+    "name": ["Gendy", false],
+    "quantity": "Adjoining Room",
+    "date": "Nov 29, 2022",
+    "progress":"Reject"
+  }
+]

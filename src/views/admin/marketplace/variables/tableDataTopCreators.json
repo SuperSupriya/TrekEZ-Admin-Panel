@@ -1,0 +1,52 @@
+[
+  {
+    "name": [
+      "@maddison_c21",
+      "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg"
+    ],
+    "artwRorks": "4",
+    "rating": 100
+  },
+  {
+    "name": [
+      "@karl.will02",
+      "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80"
+    ],
+    "artworks": "5",
+    "rating": 100
+  },
+  {
+    "name": [
+      "@andreea.1z",
+      "https://images.unsplash.com/photo-1573766064535-6d5d4e62bf9d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1315&q=80"
+    ],
+    "artworks": "4",
+    "rating": 100
+  },
+  {
+    "name": [
+      "@abraham47.y",
+      "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80"
+    ],
+    "artworks": "5",
+    "rating": 100
+  },
+  {
+    "name": ["@simmmple.web", "https://sb.kaleidousercontent.com/67418/1920x1282/7978bca0ba/christina-wocintechchat-com-50tkcap8m3a-unsplash.jpg"],
+    "artworks": "5",
+    "rating": 30
+  },
+  {
+    "name": ["@horizon.ui", "https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-600nw-1714666150.jpg"],
+    "artworks": "4",
+    "rating": 100
+  },
+  {
+    "name": [
+      "@venus.sys",
+      "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg"
+    ],
+    "artworks": "5",
+    "rating": 100
+  }
+]
