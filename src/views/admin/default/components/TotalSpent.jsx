@@ -2,7 +2,7 @@ import React from "react";
 import {
   MdArrowDropUp,
   MdOutlineCalendarToday,
-  MdBarChart,
+  
 } from "react-icons/md";
 import Card from "components/card";
 import {

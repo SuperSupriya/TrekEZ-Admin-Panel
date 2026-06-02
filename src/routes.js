@@ -7,14 +7,14 @@ import Profile from "views/admin/profile";
 import DataTables from "views/admin/tables";
 
 // Auth Imports
-import SignIn from "views/auth/SignIn";
+//import SignIn from "views/auth/SignIn";
 
 // Icon Imports
 import {
   MdHome,
   MdBarChart,
   MdPerson,
-  MdLock,
+  
 } from "react-icons/md";
 import { FaUser } from "react-icons/fa";
 
